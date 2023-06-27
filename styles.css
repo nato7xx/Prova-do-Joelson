@@ -1,0 +1,51 @@
+
+
+#imagem{
+    width: 330px;
+    height: 380px;
+    position: relative;
+    top: 150px;
+    left: 300px;
+}
+
+#cadastro{
+    position: relative;
+    left: 700px;
+    padding: 30px;
+    
+}
+
+h1{
+    font-family: 'IBM Plex Sans';
+    color: #2B2B2B;
+    font-size: 25px;
+}
+
+#email{
+    border-radius: 15px;
+    padding: 7px;
+    height: 20px;
+}
+
+#h3{
+    color: #2B2B2B;
+    font-size: 15px;
+    font-family: 'IBM Plex sans';
+}
+
+#in{
+    color: #2B2B2B;
+    font-size: 15px;
+    font-family: 'IBM Plex sans';
+}
+
+#senha{
+    border-radius: 15px;
+    padding: 7px;
+    height: 20px;
+}
+#button{
+    color:#C70000;
+    width: 300px;
+    height: 40px;
+}
